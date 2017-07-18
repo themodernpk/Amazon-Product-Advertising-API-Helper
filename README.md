@@ -1,5 +1,5 @@
 # Simple Amazon Product Advertising API Helper
-It was really stressful really get started with Amazon Product Advertising API. I figure out all the steps, hence thought to put it here, might help few other people.
+It was really stressful to get started with Amazon Product Advertising API. I figure out all the steps, hence thought to put it here, might help few other people.
 
 I will explain the entire step by step:
 ### Step 1
